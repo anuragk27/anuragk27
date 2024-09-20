@@ -20,7 +20,12 @@ I’m constantly exploring new tools and technologies, and I’m always excited 
 </p>
 
 - **Frameworks & Libraries:**
-  - Bootstrap, ReactJS, Flask, Django
+  <p>
+  <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+</p>
 
 ### 📊 What I’m working on:
 - Developing full-stack web apps with a focus on performance and design.
