@@ -6,7 +6,6 @@ I’m constantly exploring new tools and technologies, and I’m always excited 
 
 ### 🌐 What I love to do:
 - Craft sleek and responsive user interfaces 🌟
-- Build powerful, scalable backend systems 💻
 - Tackle new challenges and problem-solving 🎯
 
 ### 🔧 My Skill Set:
