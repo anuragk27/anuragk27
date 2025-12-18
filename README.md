@@ -1,12 +1,8 @@
 # Hi there! 👋 I'm Anurag Kumar
 
-Welcome to my GitHub profile! 🎉 I'm a **recent B.Tech graduate in Computer Science Engineering** and an enthusiastic **web developer** with a love for creating dynamic and user-friendly applications. 
+Welcome to my GitHub profile! 🎉 I'm **B.Tech CSE graduate** and an enthusiastic **web developer** with a love for creating dynamic and user-friendly applications. 
 
 I’m constantly exploring new tools and technologies, and I’m always excited to collaborate on interesting projects. 🚀
-
-### 🌐 What I love to do:
-- Craft sleek and responsive user interfaces 🌟
-- Tackle new challenges and problem-solving 🎯
 
 ### 🔧 My Skill Set:
 - **Languages:**
