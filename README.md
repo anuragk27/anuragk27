@@ -4,7 +4,7 @@ Welcome to my GitHub profile! 🎉 I'm **B.Tech CSE graduate** and an enthusiast
 
 I’m constantly exploring new tools and technologies, and I’m always excited to collaborate on interesting projects. 🚀
 
-### 🔧 My Skill Set:
+### My Skill Set:
 - **Languages:**
   <p>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
