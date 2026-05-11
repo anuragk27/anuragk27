@@ -29,7 +29,7 @@ I’m constantly exploring new tools and technologies, and I’m always excited 
 - Exploring new technologies to expand my skill set!
 
 ### 🤝 Let’s Connect!
-I'd love to connect with like-minded developers or potential collaborators! Feel free to reach out and connect with me:
+Feel free to reach out and connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/anurag-kumar-87ab681b2)
 
